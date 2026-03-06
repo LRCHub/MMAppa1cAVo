@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Mmm Yeah (feat. Pitbull)",
+  "base_artist": "Austin Mahone",
+  "createdAt": "2026-03-06T04:34:45.700092Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mmm Yeah (feat. Pitbull)",
+      "artist": "Austin Mahone",
+      "has_synced": true,
+      "path": "select/01_Mmm_Yeah_(feat._Pitbull)_Austin_Mahone.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mmm Yeah (feat. Pitbull)",
+      "artist": "Austin Mahone",
+      "has_synced": true,
+      "path": "select/02_Mmm_Yeah_(feat._Pitbull)_Austin_Mahone.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mmm Yeah [feat. Pitbull]",
+      "artist": "Austin Mahone",
+      "has_synced": true,
+      "path": "select/03_Mmm_Yeah_[feat._Pitbull]_Austin_Mahone.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Mmm Yeah (feat. Pitbull)",
+      "artist": "Austin Mahone; Pitbull",
+      "has_synced": true,
+      "path": "select/04_Mmm_Yeah_(feat._Pitbull)_Austin_Mahone;_Pitbull.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mmm Yeah (feat. Pitbull)",
+      "artist": "Austin Mahone",
+      "has_synced": true,
+      "path": "select/05_Mmm_Yeah_(feat._Pitbull)_Austin_Mahone.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mmm Yeah (feat. Pitbull)",
+      "artist": "Austin Mahone,Pitbull",
+      "has_synced": true,
+      "path": "select/06_Mmm_Yeah_(feat._Pitbull)_Austin_Mahone,Pitbull.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mmm Yeah - feat. Pitbull",
+      "artist": "Austin Mahone",
+      "has_synced": true,
+      "path": "select/07_Mmm_Yeah_-_feat._Pitbull_Austin_Mahone.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Mmm Yeah (feat. Pitbull)",
+      "artist": "Austin Mahone feat. Pitbull",
+      "has_synced": true,
+      "path": "select/08_Mmm_Yeah_(feat._Pitbull)_Austin_Mahone_feat._Pitbull.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Mmm Yeah - feat. Pitbull (Paused)",
+      "artist": "Austin Mahone",
+      "has_synced": true,
+      "path": "select/09_Mmm_Yeah_-_feat._Pitbull_(Paused)_Austin_Mahone.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Mmm Yeah (feat. Pitbull) (Austin Mahone)",
+      "artist": "Austin Mahone",
+      "has_synced": true,
+      "path": "select/10_Mmm_Yeah_(feat._Pitbull)_(Austin_Mahone)_Austin_Mahone.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Mmm Yeah feat. Pitbull",
+      "artist": "Austin Mahone",
+      "has_synced": false,
+      "path": "select/pl_01_Mmm_Yeah_feat._Pitbull_Austin_Mahone.txt"
+    }
+  ]
+}
